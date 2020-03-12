@@ -16,4 +16,3 @@ Pins:
 - D22 SCL
 - EN
 
-https://github.com/stefvanelst/LED-tester/blob/6ffce129a1b478d444abe634985bfbfc19aaa7e8/BlynkApp.png
