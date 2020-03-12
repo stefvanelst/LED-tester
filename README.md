@@ -15,5 +15,3 @@ Pins:
 - D21 SDA
 - D22 SCL
 - EN
-
-![Breadboard](https://github.com/DriesDebouver/LED-Lamp-Tester/blob/master/Breadboard.jpg)
